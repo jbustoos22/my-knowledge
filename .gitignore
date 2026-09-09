@@ -1,0 +1,9 @@
+# Obsidian UI state is personal to each device.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Local trash and operating-system files.
+.trash/
+.DS_Store
+Thumbs.db

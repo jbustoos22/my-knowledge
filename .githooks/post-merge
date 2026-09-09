@@ -1,0 +1,4 @@
+#!/bin/sh
+
+printf '\n[obsidian-tuwod] Vault updated from Git.\n'
+printf 'Ask Kiro to update the local knowledge base "obsidian-tuwod" before relying on new notes.\n\n'
